@@ -23,21 +23,21 @@
         <p class="text-[#ffba19] text-sm">Backend Development</p>
         <p class="text-lg">Neo Importer STIKOM Bali</p>
         <div class="mt-4">
-          <img src="~/assets/img/siadek.jpg" alt="">
+          <img src="~/assets/img/neo-importer.jpg" alt="">
         </div>
       </div>
       <div class="card">
         <p class="text-[#ffba19] text-sm">Frontend Development</p>
         <p class="text-lg">Penjaminan Mutu STIKOM Bali</p>
         <div class="mt-4">
-          <img src="~/assets/img/siadek.jpg" alt="">
+          <img src="~/assets/img/pjm.jpg" alt="">
         </div>
       </div>
       <div class="card">
         <p class="text-[#ffba19] text-sm">Frontend Development</p>
         <p class="text-lg">Profile Desa Punggul</p>
         <div class="mt-4">
-          <img src="~/assets/img/siadek.jpg" alt="">
+          <img src="~/assets/img/ds-punggul.jpg" alt="">
         </div>
       </div>
       <div class="card">
