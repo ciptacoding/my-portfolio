@@ -8,7 +8,7 @@
             <NuxtLink to="/">Home</NuxtLink>
           </li>
           <li>
-            <NuxtLink to="/certificate">Certificate</NuxtLink>
+            <NuxtLink to="/about">About</NuxtLink>
           </li>
           <li>
             <NuxtLink to="/portfolio">Portfolio</NuxtLink>

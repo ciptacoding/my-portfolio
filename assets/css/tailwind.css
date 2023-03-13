@@ -10,4 +10,8 @@ body {
   .card {
     @apply p-3 rounded-md bg-[#282833] shadow-lg h-full;
   }
+
+  .card2 {
+    @apply p-3 rounded-md bg-[#353543] shadow-lg h-full;
+  }
 }

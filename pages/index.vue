@@ -129,10 +129,3 @@
     <Footer />
   </section>
 </template>
-
-
-<script lang="ts">
-export default {
-  name: 'MdiInstagram'
-}
-</script>

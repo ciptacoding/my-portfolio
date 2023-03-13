@@ -1,6 +1,6 @@
 <template>
   <section class="px-[12%] mx-auto">
-    <div class="mt-[5rem] mb-5 sm:mb-10">
+    <div class="text-center mt-[5rem] mb-5 sm:mb-10">
       <h1 class="text-4xl text-white mb-3">My Best Selected Portfolio</h1>
       <p>The following are the best portfolios during the career path as a freelancer</p>
     </div>
