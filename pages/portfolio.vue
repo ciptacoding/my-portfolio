@@ -42,9 +42,9 @@
       </div>
       <div class="card">
         <p class="text-[#ffba19] text-sm">Fullstack Development</p>
-        <p class="text-lg">SIADEK Desa Jagapati</p>
+        <p class="text-lg">Laravel Blog Posts</p>
         <div class="mt-4">
-          <img src="~/assets/img/siadek.jpg" alt="">
+          <img src="~/assets/img/blog-post.jpg" alt="">
         </div>
       </div>
     </div>

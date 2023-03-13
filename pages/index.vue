@@ -17,14 +17,22 @@
       <div class="w-full mb-8 sm:w-[36%] py-8 z-2">
         <h1 class="text-xl my-4">Services</h1>
         <p class="text-2xl text-white">Let's build quality products in programming and design with my services</p>
-        <p class="text-[#f2b11b] my-4">Show more
+        <p class="text-[#f2b11b] my-2">Show more
           <Icon name="mdi:arrow-right-thin" />
         </p>
         <div class="text-[#f2b11b] text-2xl flex gap-5">
-          <Icon name="mdi:instagram" />
-          <Icon name="mdi:github" />
-          <Icon name="mdi:twitter-circle" />
-          <Icon name="mdi:linkedin" />
+          <NuxtLink to="https://www.instagram.com/ciptadwipajayaa/">
+            <Icon name="mdi:instagram" />
+          </NuxtLink>
+          <NuxtLink to="https://github.com/ciptacoding">
+            <Icon name="mdi:github" />
+          </NuxtLink>
+          <NuxtLink to="https://twitter.com/Cipta_Dev">
+            <Icon name="mdi:twitter-circle" />
+          </NuxtLink>
+          <NuxtLink to="https://www.linkedin.com/in/i-gusti-ngurah-cipta-dwipajaya-9019bb231/">
+            <Icon name="mdi:linkedin" />
+          </NuxtLink>
         </div>
       </div>
     </article>
@@ -80,7 +88,9 @@
             <p class="">10 Project</p>
           </div>
           <div class="text-[#f2b11b] text-3xl self-center">
-            <Icon name="mdi:arrow-right-thin" />
+            <NuxtLink to="/portfolio">
+              <Icon name="mdi:arrow-right-thin" />
+            </NuxtLink>
           </div>
         </div>
         <hr class="border-[#3f3f50] border-2 mt-3">
@@ -92,7 +102,9 @@
             <p class="">8 Project</p>
           </div>
           <div class="text-[#f2b11b] text-3xl self-center">
-            <Icon name="mdi:arrow-right-thin" />
+            <NuxtLink to="/portfolio">
+              <Icon name="mdi:arrow-right-thin" />
+            </NuxtLink>
           </div>
         </div>
         <hr class="border-[#3f3f50] border-2 mt-3">
@@ -104,7 +116,9 @@
             <p class="">11 Project</p>
           </div>
           <div class="text-[#f2b11b] text-3xl self-center">
-            <Icon name="mdi:arrow-right-thin" />
+            <NuxtLink to="/portfolio">
+              <Icon name="mdi:arrow-right-thin" />
+            </NuxtLink>
           </div>
         </div>
         <hr class="border-[#3f3f50] border-2 mt-3 mb-12">
